@@ -6,9 +6,11 @@ This module will change the Stock Android 10 gesture bar (when using the android
 - Magisk 19+
 
 Before:
+
 ![](https://i.imgur.com/3GIKuoE.jpg)
 
 After:
+
 ![](https://i.imgur.com/8AyySwy.jpg)
 
 ## Installation
