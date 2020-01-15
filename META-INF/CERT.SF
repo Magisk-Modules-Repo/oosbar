@@ -1,0 +1,22 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: GCq+xFThAPoy/x4+atUqomCjzbE=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest: wOAUMwZsLR9QVwvZ0NcJxqM2sc4=
+
+Name: install.sh
+SHA1-Digest: rkWV94r26s1U96bwT9PKtA1Z+Pg=
+
+Name: system/product/overlay/gen_signed.apk
+SHA1-Digest: yak7ajgGKeN010vCVVTX/f+TB6U=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: 48vhVGeUh/rYWRApA7wpQtDWjXA=
+
+Name: README.md
+SHA1-Digest: qEZNMTAgDfKaZyApfo9/i7qf/aI=
+
