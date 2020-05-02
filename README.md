@@ -1,6 +1,6 @@
 # Oxygen OS Gesture Bar for AOSP
 
-This module will change the Stock Android 10 gesture bar (when using the android 10 gestures) to the larger Oxygen OS one
+This module will change the Stock Android 10-11 gesture bar to the larger Oxygen OS one
 ## Requirements
 - Android 10-11 only
 - Magisk 20+
