@@ -20,6 +20,7 @@ After:
 
 ## Links
 - [Telegram](https://t.me/DanGLES3)
+- [Github](https://github.com/Magisk-Modules-Repo/oosbar)
 
 
 ## Changelog
