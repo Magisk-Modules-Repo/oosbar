@@ -2,7 +2,7 @@
 
 This module will change the Stock Android 10 gesture bar (when using the android 10 gestures) to the larger Oxygen OS one
 ## Requirements
-- Android 10 only
+- Android 10-11 only
 - Magisk 19+
 
 Before:
@@ -25,3 +25,5 @@ After:
 ## Changelog
 ### v1.0
 - Initial release
+### v2.0
+- Add Android 11 support (untested)
