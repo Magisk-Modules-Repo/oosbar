@@ -19,7 +19,7 @@ After:
 3. Enjoy!
 
 ## Links
-- [Telegram](https://t.me/DanGLES3)
+- [Telegram](https://t.me/Danmaku1)
 - [Github](https://github.com/Magisk-Modules-Repo/oosbar)
 
 
